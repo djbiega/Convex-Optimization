@@ -1,2 +1,2 @@
 # Convex-Optimization
-Projects to demonstrate knowledge of convex optimization
+Homework to demonstrate optimization knowledge with Python
