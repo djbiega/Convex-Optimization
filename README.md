@@ -4,4 +4,9 @@ This was a project I created for my senior design course in Aerospace Engineerin
 
 Before running this code, TomLab must be installed. To get a 3 month trial of TomLab, visit https://tomopt.com/tomlab/ After starting Matlab for the first time after installing TomLab, navigate to the .\tomlab folder where the license is installed, and run the 'startup.m' file. From here, this script can then be run. This script will minimize the time for a quadplane to travel from hover at 10m to cruise at 61m. The final cruise state will have a flight angle of attack of 0 degrees and a cruise velocity of 24 m/s.           
 
-Pleas see the file Biega_AAE561_Final_Report_12102018.pdf for the full report on the results.
+Please see the file Biega_AAE561_Final_Report_12102018.pdf for the full report on the results.
+
+## Screenshots
+![initial](AAE561_Min_Time_to_Climb_Baseline_2_01.png)
+
+![initial](AAE561_Min_Time_to_Climb_Baseline_2_02.png)
